@@ -8,6 +8,10 @@ body, html {
   background:url('images/white-wood.jpg') no-repeat fixed;
 }
 
+.hello{
+  
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
