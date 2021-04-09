@@ -43,14 +43,17 @@ h4 {
 }
 
 .small {
+  border: solid ;
   width: 100%;
   height: 100%;
 }
 
 .med {
+  border: solid ;
   width: 203.5%;
 }
 
 .large {
+  border: solid ;
   width: 303%;
 }
